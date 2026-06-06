@@ -2,7 +2,10 @@
 
 Software for the drilling subsystem of Project CRATER's autonomous Mars rover.
 
+## Drill Demo Link
 [![Drill Demo](https://img.youtube.com/vi/W4xdipOFZ2M/0.jpg)](https://youtu.be/W4xdipOFZ2M?t=429)
+
+*(https://youtu.be/W4xdipOFZ2M?t=429)*
 
 ## Repository Structure
 
