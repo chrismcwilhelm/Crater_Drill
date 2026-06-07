@@ -28,8 +28,6 @@ setup(
         'listener = drill_package.listener:main',
         'drill_esp = drill_package.drill_esp:main',
         'sample_esp = drill_package.sample_esp:main',
-        'publisher = drill_package.publisher:main',
-        'follower = drill_package.subscriber:main',
     ],
 },
 )
